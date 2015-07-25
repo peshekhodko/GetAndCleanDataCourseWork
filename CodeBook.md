@@ -1,8 +1,8 @@
-<h1> Code Book
+<h1> Code Book </h1>
 
 Represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-<h2> Identification:
+<h2> Identification: </h2>
 
 **subject:** volunteer id. 
 The experiments have been carried out with a group of 30 volunteers within an age bracket of 19-48 years.
@@ -10,7 +10,7 @@ The experiments have been carried out with a group of 30 volunteers within an ag
 **activity:** activity which was performed by person. 
 Each person performed six activities (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING) wearing a smartphone (Samsung Galaxy S II) on the waist.
 
-<h2> Measurements:
+<h2> Measurements: </h2>
 The rest of the columns contains average of the same variable as in the original dataset for the given subject and activity. 
 *All features in the original dataset are normalized and bounded within [-1,1]*
 
